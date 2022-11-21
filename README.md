@@ -1,2 +1,2 @@
 # First-One
-Python
+Sharing some of my initial learnings from Python inorder to help people :)
